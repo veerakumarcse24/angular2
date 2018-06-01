@@ -1,0 +1,23 @@
+.mainbackgrund.tap1 {
+    height: 250px;
+    width: 80%;
+    background-image: url("../images/wonderla_tab1.jpg");
+    background-size: 100% 100%;
+   /* background-repeat:no-repeat;*/
+}
+.theme-font.title
+{
+  color: #3498F9;
+}
+
+.theme-font.href
+{
+ /*color: #ffffff; */
+ font-size: 25px;
+}
+
+.component-theme {
+	background-image: url("http://globalmedicalco.com/photos/globalmedicalco/2/8461.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}

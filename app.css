@@ -1,0 +1,33 @@
+﻿a {
+    cursor: pointer;
+}
+
+.help-block {
+    font-size: 12px;
+}
+
+body {
+	background-image: url("https://3.bp.blogspot.com/-WWQD4vY2cv0/WiaQ1_8rPrI/AAAAAAAABJk/V98Y-1RW0tss4tgIaUqMRQgfQXvrzcWlgCEwYBhgL/s1600/Cb%2BEdit%2BBackground%2BNew%252C%2BHd%2BCb%2BBackgrounds%252C2018%2BNew%2BHd%2BBackgrounds%252CHd%2BBackgrounds%2BFor%2BPhotoshop%252C%2BBest%2BEditing%2BBackgrounds%2Bnew%252C%2BPhotoshop%2BEditing%2BBackgrounds%252CHd%2BBackgrounds%2B%252812%2529.jpg");
+    background-size: 100% 100%;
+     background-repeat: no-repeat;
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: #ffffff;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF570B;
+}
+
+/* selected link */
+a:active {
+    color: #FF570B;
+}
